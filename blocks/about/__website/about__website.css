@@ -4,9 +4,3 @@
     align-items: flex-start;
     justify-content: flex-end;
 }
-
-@media screen and (max-width: 767px) {
-    .about__website {
-        display: none;
-    }
-}
