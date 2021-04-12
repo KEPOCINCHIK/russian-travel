@@ -5,7 +5,7 @@
     justify-content: flex-end;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
     .about__website {
        margin: 0 auto 0 16px;
     }
